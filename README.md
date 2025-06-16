@@ -54,3 +54,7 @@ cd pyPro
 
 # Run the tracker
 /usr/bin/python3 recording_track.py
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
