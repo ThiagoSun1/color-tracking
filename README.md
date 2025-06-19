@@ -50,7 +50,7 @@ sudo raspi-config
 
 # Clone the repository
 git clone https://github.com/ThiagoSun1/soccer-ball-tracker.py
-cd pyPro
+cd soccer-ball-tracker.py
 
 # Run the tracker
 /usr/bin/python3 recording_track.py
