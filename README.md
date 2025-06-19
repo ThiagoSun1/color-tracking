@@ -49,7 +49,7 @@ sudo raspi-config
 # Go to: Interface Options → Enable I2C
 
 # Clone the repository
-git clone https://github.com/ThiagoSun1/soccer-ball-tracker.py/tree/main
+git clone git clone https://github.com/ThiagoSun1/soccer-ball-tracker.py/tree/main
 cd pyPro
 
 # Run the tracker
