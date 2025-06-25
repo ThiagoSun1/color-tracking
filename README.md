@@ -1,4 +1,4 @@
-# Soccer Ball Tracker
+# Color Tracker
 
 A Raspberry Pi-based vision system that **tracks a color in real time** and records the session using an Arducam IMX519 camera and servo-controlled panning. Built entirely in Python, it uses two LFD-06 servo motors and a PCA9685 controller to physically follow the ball across the field.
 
