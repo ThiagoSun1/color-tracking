@@ -49,8 +49,8 @@ sudo raspi-config
 # Go to: Interface Options → Enable I2C
 
 # Clone the repository
-git clone https://github.com/ThiagoSun1/soccer-ball-tracker.py
-cd soccer-ball-tracker.py
+git clone https://github.com/ThiagoSun1/color-ball-tracking
+cd color-ball-tracking
 cd Downloads
 
 # Run the tracker
