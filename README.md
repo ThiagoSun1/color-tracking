@@ -50,8 +50,7 @@ sudo raspi-config
 
 # Clone the repository
 git clone https://github.com/ThiagoSun1/color-ball-tracking
-cd color-ball-tracking
-cd Downloads
+cd ~/color-tracking/Downloads
 
 # Run the tracker
 /usr/bin/python3 recording_track.py
