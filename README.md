@@ -49,7 +49,7 @@ sudo raspi-config
 # Go to: Interface Options → Enable I2C
 
 # Clone the repository
-git clone https://github.com/ThiagoSun1/color-ball-tracking
+git clone https://github.com/ThiagoSun1/color-tracking
 cd ~/color-tracking/Downloads
 
 # Run the tracker
